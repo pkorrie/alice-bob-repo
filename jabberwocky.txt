@@ -1,4 +1,4 @@
-Jabberwocky
+t log --oneline --decorate --graph --colorJabberwocky
 Lewis Carroll
 
 'Twas brillig, and the slithy toves 
@@ -35,4 +35,4 @@ O frabjous day! Callooh! Callay!"
   Did gyre and gimble in the wabe: 
 All mimsy were the borogoves, 
   And the mome raths outgrabe.
-
+Hello humans!
